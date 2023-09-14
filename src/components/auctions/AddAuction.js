@@ -49,7 +49,7 @@ export const AddAuction = ({ setAuction }) => {
     <>
       <div className="col d-flex justify-content-center my-3">
         <div onClick={openForm} className="btn btn-outline-secondary mx-2">
-          + Auction
+          + TC Auction services
         </div>
       </div>
       <Modal centered show={showForm} onHide={closeForm}>

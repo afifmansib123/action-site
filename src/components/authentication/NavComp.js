@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import logoImg from '../../assets/logo.png';
+import logoImg from '../../assets/mainlogo.png';
 import { AuthContext } from '../../context/AuthContext';
 import { LoginComp } from './LoginComp';
 import { RegisterComp } from './RegisterComp';
